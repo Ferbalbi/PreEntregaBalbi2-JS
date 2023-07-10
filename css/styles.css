@@ -1,0 +1,20 @@
+h1 {
+  background-color: grey;
+  color: black;
+  text-align: center;
+  font-size: 3rem;
+  width: 100%;
+}
+h2 {
+  background-color: darkseagreen;
+  color: black;
+  font-size: 2rem;
+  text-align: center;
+}
+h3 {
+  color: black;
+  font-size: 1rem;
+}
+li {
+  margin: 10px;
+}
